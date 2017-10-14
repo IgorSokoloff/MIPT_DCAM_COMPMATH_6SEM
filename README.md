@@ -1,2 +1,2 @@
-# MIPT_DCAM_COMPMATH_6SEM
+# COMPMATH
 Compmath programs
